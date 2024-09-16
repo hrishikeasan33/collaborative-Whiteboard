@@ -14,11 +14,10 @@ To run the Whiteboard project locally:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AbdulSamad01/social-media-app.git
-
+https://github.com/hrishikeasan33/collaborative-Whiteboard.git
 2. Navigate to the project directory:
    ```bash
-   cd social-media-app
+   cd collbarative Whiteboard
 
 4. Install dependencies:
    ```bash
