@@ -1,0 +1,41 @@
+/* frontend/src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.feed {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.post-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  background: #fff;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.post-content {
+  flex: 1;
+}
+
+.post-info {
+  font-size: 0.9em;
+  color: #666;
+}
+
+h1 {
+  text-align: center;
+}

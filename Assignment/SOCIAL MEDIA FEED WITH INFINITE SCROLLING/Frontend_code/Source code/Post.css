@@ -1,0 +1,25 @@
+/* frontend/src/Post.css */
+.post-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    background: #fff;
+  }
+  
+  .avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .post-content {
+    flex: 1;
+  }
+  
+  .post-info {
+    font-size: 0.9em;
+    color: #666;
+  }
+  
